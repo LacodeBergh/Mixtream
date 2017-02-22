@@ -1,7 +1,8 @@
 * {
   margin: auto;
+  background-image: url("../Background-01");
 }
 
-p{
-  background-color: black;
+p {
+  background-color: white;
 }
