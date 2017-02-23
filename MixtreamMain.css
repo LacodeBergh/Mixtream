@@ -1,6 +1,10 @@
+html {
+  background-color: black;
+}
+
 * {
   margin: auto;
-  background-image: url("../Background-01");
+  background-image: url("/Background-01");
 }
 
 p {
