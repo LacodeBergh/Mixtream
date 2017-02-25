@@ -1,12 +1,18 @@
 html {
-  background-color: black;
+  background-color: #362646;
+  /*#5D5D5D*/
 }
 
 * {
   margin: auto;
-  background-image: url("/Background-01");
+  background-image: url("../Background-01");
 }
 
 p {
-  background-color: black;
+  background-color: #FFF;
+  color: #362646;
+}
+h1 {
+  background-color: #8968AD;
+  color: #362646;
 }
