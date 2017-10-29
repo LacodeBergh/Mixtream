@@ -7,7 +7,7 @@
   text-align: center;
 }
 html {
-  background-image: url("/Web Design/Projects/Mixtream/Images/Background-01.jpg");
+  background-image: url("/Volumes/LDRIVE 2/Web Design/Projects/Mixtream/Images/Background-01.jpg");
   background-repeat: no-repeat;
   background-size: auto;
   overflow-x: hidden;
@@ -45,7 +45,7 @@ p {
   height: 100px;
   width: 300px;
   display: inline-block;
-  background-image: url("/Web Design/Projects/Mixtream/Images/MixElmnt-11.svg");
+  background-image: url("/Volumes/LDRIVE 2/Web Design/Projects/Mixtream/Images/MixElmnt-11.svg");
   background-repeat: no-repeat;
   background-size: contain;
 
@@ -65,7 +65,7 @@ p {
   padding: 20px;
   border-radius: 50px;
   background-color: #FFF;
-  color: #8968AD;
+  color: #362646;
   display: inline-block;
 }
 
@@ -88,14 +88,14 @@ a {
 }
 
 #list:hover {
-  color: #8968AD;
+  color: #362646;
 }
 
 .more-info {
   margin: auto;
   margin-top: 30px;
   margin-bottom: 0;
-  background-image: url("/Web Design/Projects/Mixtream/Images/MixElmnt-02.svg");
+  background-image: url("/Volumes/LDRIVE 2/Web Design/Projects/Mixtream/Images/MixElmnt-02.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -169,71 +169,6 @@ h2, h3 {
   padding: 10px;
   border-radius: 50px;
   background-color: #FFF;
-  color: #8968AD;
-  display: inline-block;
-}
-
-.social-one {
-  margin-top: 50px;
-  margin-bottom: 20px;
-  margin-right: 50px;
-  float: right;
-  clear: left;
-  display: inline-block;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  color: transparent;
-  width: 50px;
-  height: 50px;
-}
-
-.social-one:hover {
-  background-image: none;
-  background-size: contain;
-  float: right;
-  clear: left;
-  text-align: center;
-  font-size: 12px;
-  margin-top: 50px;
-  margin-bottom: 20px;
-  margin-right: 50px;
-  padding: 10px;
-  border-radius: 50px;
-  /*background-color: #FFF;*/
-  color: #FFF;/*#8968AD;*/
-  display: inline-block;
-}
-
-.social-two {
-  margin-top: 50px;
-  margin-bottom: 20px;
-  margin-right: 50px;
-  float: right;
-  clear: left;
-  display: inline-block;
-  background-image: url("/Users/lathamvandenbergh/Documents/Web Design/Projects/Mixtream/Images/Mixtream Social-01.svg");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  color: transparent;
-  width: 50px;
-  height: 50px;
-}
-
-.social-two:hover {
-  background-image: none;
-  background-size: contain;
-  float: right;
-  clear: left;
-  text-align: center;
-  font-size: 12px;
-  margin-top: 50px;
-  margin-bottom: 20px;
-  margin-right: 50px;
-  padding: 10px;
-  border-radius: 50px;
-  /*background-color: #FFF;*/
-  color: #fff;/*#8968AD;*/
+  color: #362646;
   display: inline-block;
 }
